@@ -14,9 +14,9 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'django-heroku'
 DESCRIPTION = 'This is a Django library for Heroku apps.'
-URL = 'https://github.com/heroku/django-heroku'
-EMAIL = 'kreitz@salesforce.com'
-AUTHOR = 'Kenneth Reitz'
+URL = 'https://github.com/Projeto_LMS_Fantec_oficial'
+EMAIL = 'hilana.godoy@hotmail.com'
+AUTHOR = 'Hilana Teixeira'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
